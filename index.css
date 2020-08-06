@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'MXFont';
+  font-style: normal;
+  font-weight: 700;
+  font-display: block;
+  src: local('Red Rose Bold'), local('RedRose-Bold'), url(https://fonts.gstatic.com/l/font?kit=QdVSSTYiLBjouPgEUYpYvCFluW44JU0kRZQNM3_KDSEq6DXMCtN2J1m7vYiMIw&skey=c1a14089377fbc1a&v=v1) format('woff2');
+}
